@@ -1,5 +1,3 @@
-# cloud-server
-
 # Lab: AWS: Cloud Servers
 
 ## Overview

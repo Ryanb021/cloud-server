@@ -32,12 +32,6 @@ Deploy a simple Node.js server to EC2, using Elastic Beanstalk
   - The links to both of your deployed servers (GUI deploy and CLI deploy)
   - Document your processes
 
-## GUI Deployment
+## Elastic Beanstalk Link
 
-
-
-## CLI Deployment
-
-
-
-## Processes
+- http://cloudserver-env.eba-gmncxme2.us-west-2.elasticbeanstalk.com/status
